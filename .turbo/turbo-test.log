@@ -1,6 +1,6 @@
 
 
-> @famgia/omnify-atlas@0.0.155 test /Users/f.satoshi/Herd/omnify-ts/packages/omnify-core-atlas-adapter
+> @famgia/omnify-atlas@0.0.156 test /Users/f.satoshi/Herd/omnify-ts/packages/omnify-core-atlas-adapter
 > vitest run --passWithNoTests
 
 
