@@ -1,6 +1,6 @@
 {
   "name": "@famgia/omnify-atlas",
-  "version": "0.0.157",
+  "version": "2.0.0",
   "description": "Atlas CLI integration for omnify-schema",
   "type": "module",
   "main": "./dist/index.js",
