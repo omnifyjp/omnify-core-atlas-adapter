@@ -1,4 +1,5 @@
 
-> @famgia/omnify-atlas@0.0.154 typecheck /Users/f.satoshi/Herd/omnify-ts/packages/omnify-core-atlas-adapter
+
+> @famgia/omnify-atlas@0.0.155 typecheck /Users/f.satoshi/Herd/omnify-ts/packages/omnify-core-atlas-adapter
 > tsc --noEmit
 
